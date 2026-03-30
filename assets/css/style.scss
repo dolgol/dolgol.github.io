@@ -3,7 +3,7 @@
 
 @import "{{ site.theme }}";
 
-$accent: #90E0EF;
+// $accent: #90E0EF;
 
 body {
   font-family: 'Pretendard', -apple-system, BlinkMacSystemFont, 'Noto Sans', sans-serif;
@@ -15,7 +15,7 @@ h2 {
 }
 
 a {
-  color: $accent;
+  // color: $accent;
   &:hover { opacity: 0.75; }
 }
 
