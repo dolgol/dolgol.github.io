@@ -36,7 +36,7 @@ title: 이연주 · Frontend Developer
 
 | 분야 | 기술 |
 |------|------|
-| Language | JavaScript, TypeScript |
+| Language | JavaScript |
 | Framework | React, Next.js |
 | Styling | Tailwind CSS, SCSS |
 | State | Zustand |
@@ -88,14 +88,20 @@ title: 이연주 · Frontend Developer
 
 **Stack**: Next.js 14, React 18, TypeScript, Tailwind CSS, Zustand, React Hook Form -->
 
+### 'ADERERROR' 자사몰 및 어드민 페이지 구축 `2025.03 ~ 2025.08`
+
+- 자사몰 프론트엔드 및 어드민 페이지 개발
+- 어드민 페이지 사용성 개선을 위한 Semantic UI 적용
+- PHP 백엔드 연동
+- **Stack**: JavaScript, jQuery, Semantic UI
+
 ### Shopify를 기반으로 한 'SIDIZ' 자사몰 구축 `2024.10 ~ 2025.03`
 
 > 시디즈 공식 Shopify 자사몰 테마 커스터마이징
 
-- A/S 신청 3단계 멀티스텝 폼 구현 (단계별 유효성 검사, 방문희망일 달력 flatpickr 적용)
-- 품질 보증·정품 등록 섹션 신규 개발 (20+ Liquid 섹션 및 CSS 파일 작성)
-- FAQ 검색어 하이라이팅, 카테고리 필터, 모바일 최적화
-- 다음 주소 찾기 모달, 파일 업로드 에러 핸들링 등 한국 서비스 특화 기능 구현
+- 마이페이지, 이지리페어 페이지 구현
+- A/S 신청 3단계 멀티스텝 폼 구현 (단계별 유효성 검사)
+- 품질 보증·정품 등록 섹션 개선
 - **Stack**: Shopify Liquid, JavaScript, CSS3, flatpickr, 다음 주소 API
 
 ---
@@ -104,10 +110,9 @@ title: 이연주 · Frontend Developer
 
 ### 또롱 `2026.01 ~ 진행중`
 
-> 내 주변 가챠삽 찾기 (3인 팀)
+> 내 주변 가챠샵 지도 서비스 (3인 팀)
 
-- 위치 기반 내 주변 가차샵
-- 프론트엔드 담당
+- 위치 기반 가챠샵 지도 서비스 프론트엔드 담당
 - **Stack**: React, Next.js, Tailwind CSS
 
 ### POSSG `2023.08 ~ 2023.10`
