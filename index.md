@@ -106,7 +106,7 @@ title: 이연주 · Frontend Developer
 
 ---
 
-## 🚀 개인 프로젝트
+## 🧪 개인 프로젝트
 
 ### 또롱 `2026.01 ~ 진행중`
 
@@ -121,7 +121,7 @@ title: 이연주 · Frontend Developer
 
 - POS·키오스크 분기 처리 및 키오스크 모드 UI 전담 구현
 - IntersectionObserver 기반 무한 스크롤, 상품 영양정보 모달 구현
-- 상품 폐기 처리 흐름 설계 및 구현
+- 상품 발주 흐름 설계 및 구현
 - SSE(Server-Sent Events) 기반 실시간 알림 처리
 - **Stack**: React 18, Recoil, React Router DOM 6, SASS, Axios, Chart.js, Bootpay
 
@@ -134,7 +134,7 @@ title: 이연주 · Frontend Developer
 
 ---
 
-## 🎓 교육
+## 📖 교육
 
 - **신세계아이앤씨** AI 플랫폼을 활용한 리테일 서비스 개발 (KDT) `2023.05 ~ 2023.10`
 - **신세계아이앤씨** 스파로스 아카데미 `2022.07 ~ 2022.11`
