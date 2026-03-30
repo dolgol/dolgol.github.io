@@ -21,6 +21,10 @@ h2 {
   font-family: 'TossFace', sans-serif;
 }
 
+hr {
+  background: $accent;
+}
+
 a {
   color: $accent;
   &:hover { opacity: 0.75; }
