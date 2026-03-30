@@ -1,6 +1,21 @@
 @import "{{ site.theme }}";
+@import url('https://cdn.jsdelivr.net/gh/orioncactus/pretendard/dist/web/static/pretendard.css');
+@import url('https://cdn.jsdelivr.net/gh/toss/tossface/dist/tossface.min.css');
 
 $accent: #90E0EF;
+
+body {
+  font-family: 'Pretendard', -apple-system, BlinkMacSystemFont, sans-serif;
+}
+
+.profile-pic {
+  width: 120px;
+  height: 120px;
+  border-radius: 50%;
+  object-fit: cover;
+  display: block;
+  margin-bottom: 1rem;
+}
 
 h2 {
   border-bottom: 2px solid $accent;
