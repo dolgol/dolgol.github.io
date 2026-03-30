@@ -1,5 +1,6 @@
 title: dolgol
 description: 이연주 — 프론트엔드 개발자
 theme: jekyll-theme-minimal
+logo: /assets/images/profile.jpeg
 plugins:
   - jekyll-feed
