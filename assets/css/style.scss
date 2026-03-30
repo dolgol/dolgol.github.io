@@ -3,19 +3,20 @@
 
 @import "{{ site.theme }}";
 
-// $accent: #90E0EF;
-
 body {
   font-family: 'Pretendard', -apple-system, BlinkMacSystemFont, 'Noto Sans', sans-serif;
 }
 
-h2 {
-  padding-bottom: 4px;
+h2, 
+.tossface {
   font-family: 'Tossface', sans-serif;
 }
 
+h2 {
+  padding-bottom: 4px;
+}
+
 a {
-  // color: $accent;
   &:hover { opacity: 0.75; }
 }
 
