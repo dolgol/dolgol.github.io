@@ -3,12 +3,11 @@ layout: default
 title: 이연주 · Frontend Developer
 ---
 
-
 # 이연주 (Lee Yeonju)
 
-📧 [llyyjj292@gmail.com](mailto:llyyjj292@gmail.com)
-🔗 [GitHub](https://github.com/dolgol)
-📍 서울특별시 관악구
+📧 [llyyjj292@gmail.com](mailto:llyyjj292@gmail.com)  
+🔗 [GitHub](https://github.com/dolgol)  
+📍 서울특별시 관악구  
 
 ---
 
