@@ -5,12 +5,8 @@
 
 $accent: #90E0EF;
 
-body, 
-p, 
-li, 
-td, 
-th {
-  font-family: 'Pretendard', -apple-system, BlinkMacSystemFont, 'Noto Sans', sans-serif !important;
+body {
+  font-family: 'Pretendard', -apple-system, BlinkMacSystemFont, 'Noto Sans', sans-serif;
 }
 
 .profile-pic {
@@ -28,17 +24,12 @@ h2 {
   font-family: 'Tossface', sans-serif;
 }
 
-hr {
-  background: $accent;
-}
-
 a {
   color: $accent;
   &:hover { opacity: 0.75; }
 }
 
 code {
-  color: $accent;
   background: rgba(108, 99, 255, 0.08);
   padding: 1px 4px;
   border-radius: 3px;
