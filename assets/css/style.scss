@@ -2,8 +2,8 @@
 
 $accent: #90E0EF;
 
-body {
-  font-family: 'Pretendard', -apple-system, BlinkMacSystemFont, sans-serif;
+body, p, li, td, th {
+  font-family: 'Pretendard', -apple-system, BlinkMacSystemFont, 'Noto Sans', sans-serif !important;
 }
 
 .profile-pic {
