@@ -3,11 +3,11 @@ layout: default
 title: 이연주 · Frontend Developer
 ---
 
-# 이연주, LEE YEONJU <span class="tossface">🐬</span>
+# 이연주, LEE YEONJU 🐬
 
-<span class="tossface">📧</span> [llyyjj292@gmail.com](mailto:llyyjj292@gmail.com)  
-<span class="tossface">🔗</span> [GitHub](https://github.com/dolgol)  
-<span class="tossface">📍</span> 서울특별시 관악구
+📧 [llyyjj292@gmail.com](mailto:llyyjj292@gmail.com)  
+🔗 [GitHub](https://github.com/dolgol)  
+📍 서울특별시 관악구
 
 ---
 
@@ -22,7 +22,7 @@ title: 이연주 · Frontend Developer
 
 ## 💼 경력
 
-### 방배동밸리 — 프론트엔드 개발자 `2024.09 ~ 현재`
+### 방배동밸리 - 프론트엔드 개발자 `2024.09 ~ 현재`
 
 - Next.js · React 기반 플랫폼 Shopify 자사몰 등 다수 프로젝트 개발 참여
 - Shopify Liquid 기반 SIDIZ 자사몰 테마 커스터마이징 (마이페이지, 이지리페어 등)
@@ -68,7 +68,7 @@ title: 이연주 · Frontend Developer
 
 <!-- ### 동네꽃집 사이트 리뉴얼 - 플로비 `2025.09 ~ 2026.03 (진행중)`
 
-> 동네 꽃집 플랫폼 리뉴얼 — 구매자·판매자·관리자 웹
+> 동네 꽃집 플랫폼 리뉴얼 - 구매자·판매자·관리자 웹
 
 **구매자 웹**
 - Next.js 14 App Router 기반 모바일 웹 구현
